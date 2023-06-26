@@ -8,8 +8,9 @@ Bilkent freshman project
 The Android app called "Social Scheduler" combines scheduling features with social media elements, allowing users to plan and share their weekly activities. By receiving likes and feedback, routines can be sorted based on popularity.
 
 #In-app Screenshots
-![login](https://github.com/cartoonRunner/Social-Scheduler/assets/114016405/b899abdd-6d57-4f24-b8f3-76e9383c0ae1)
-![signup](https://github.com/cartoonRunner/Social-Scheduler/assets/114016405/666494ad-c3e1-491e-80bd-75de6eebcc10)
+
+1. ![login](https://github.com/cartoonRunner/Social-Scheduler/assets/114016405/b899abdd-6d57-4f24-b8f3-76e9383c0ae1)
+2. ![signup](https://github.com/cartoonRunner/Social-Scheduler/assets/114016405/666494ad-c3e1-491e-80bd-75de6eebcc10)
 ![personalize](https://github.com/cartoonRunner/Social-Scheduler/assets/114016405/f171fc5b-9e35-4cbc-9dab-99abccbe4715)
 ![Screenshot_9](https://github.com/cartoonRunner/Social-Scheduler/assets/114016405/2d448406-3559-4149-9c67-72822dcbe666)
 ![Screenshot_10](https://github.com/cartoonRunner/Social-Scheduler/assets/114016405/e99b6adf-f7c6-456b-bfc0-79843be9714b)
