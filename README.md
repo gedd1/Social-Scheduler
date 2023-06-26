@@ -9,9 +9,9 @@ The Android app called "Social Scheduler" combines scheduling features with soci
 
 # In-app Screenshots
 
-1. ![login](https://github.com/cartoonRunner/Social-Scheduler/assets/114016405/b899abdd-6d57-4f24-b8f3-76e9383c0ae1)
-2. ![signup](https://github.com/cartoonRunner/Social-Scheduler/assets/114016405/666494ad-c3e1-491e-80bd-75de6eebcc10)
-3. ![personalize](https://github.com/cartoonRunner/Social-Scheduler/assets/114016405/f171fc5b-9e35-4cbc-9dab-99abccbe4715)
+![login](https://github.com/cartoonRunner/Social-Scheduler/assets/114016405/b899abdd-6d57-4f24-b8f3-76e9383c0ae1)
+![signup](https://github.com/cartoonRunner/Social-Scheduler/assets/114016405/666494ad-c3e1-491e-80bd-75de6eebcc10)
+![personalize](https://github.com/cartoonRunner/Social-Scheduler/assets/114016405/f171fc5b-9e35-4cbc-9dab-99abccbe4715)
 4. ![Screenshot_9](https://github.com/cartoonRunner/Social-Scheduler/assets/114016405/2d448406-3559-4149-9c67-72822dcbe666)
 5. ![Screenshot_10](https://github.com/cartoonRunner/Social-Scheduler/assets/114016405/e99b6adf-f7c6-456b-bfc0-79843be9714b)
 6. ![Screenshot_11](https://github.com/cartoonRunner/Social-Scheduler/assets/114016405/8dd87e5c-f109-412d-b215-7a94ad9d4031)
