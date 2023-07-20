@@ -1,5 +1,5 @@
 # Social-Scheduler
-Bilkent freshman project
+Bilkent freshmen project
 
 # Contributors
 1. İbrahim Karaca
