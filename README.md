@@ -2,8 +2,8 @@
 Bilkent freshmen project
 
 # Contributors
-1. İbrahim Karaca
-2. Ahmet Deniz Gelir
+1. İbrahim Karaca [Github](https://github.com/gedd1)
+2. Ahmet Deniz Gelir [Github](https://github.com/adenizgelir0)
 
 The Android app called "Social Scheduler" combines scheduling features with social media elements, allowing users to plan and share their weekly activities. By receiving likes and feedback, routines can be sorted based on popularity.
 
