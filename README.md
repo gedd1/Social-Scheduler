@@ -1,5 +1,5 @@
 # Social-Scheduler
-Bilkent freshmen project
+Bilkent CS102 Project
 
 # Contributors
 1. İbrahim Karaca [Github](https://github.com/gedd1)
