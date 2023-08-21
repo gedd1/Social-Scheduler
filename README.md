@@ -2,10 +2,12 @@
 Bilkent CS102 Project
 
 # Contributors
-1. İbrahim Karaca [Github](https://github.com/gedd1)
+1. İbrahim Karaca [Github](https://github.com/gedd1), [LinkedIn](https://www.linkedin.com/in/ibrahim-karaca-5332b225a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BAwua81h0RwmFp6KRNXX71Q%3D%3D)
 2. Ahmet Deniz Gelir [Github](https://github.com/adenizgelir0)
 
 The Android app called "Social Scheduler" combines scheduling features with social media elements, allowing users to plan and share their weekly activities. By receiving likes and feedback, routines can be sorted based on popularity.
+
+The thoughts and detailed report of the project: [DesignReport](https://github.com/gedd1/Social-Scheduler/blob/main/DetailedDesignReport.pdf)
 
 # In-app Screenshots
 
