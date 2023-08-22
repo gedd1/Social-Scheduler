@@ -7,7 +7,8 @@ Bilkent CS102 Project
 
 The Android app called "Social Scheduler" combines scheduling features with social media elements, allowing users to plan and share their weekly activities. By receiving likes and feedback, routines can be sorted based on popularity.
 
-The thoughts and detailed report of the project: [DesignReport](https://github.com/gedd1/Social-Scheduler/blob/main/DetailedDesignReport.pdf)
+Detailed design report: [DesignReport](https://github.com/gedd1/Social-Scheduler/blob/main/DetailedDesignReport.pdf)
+
 
 # In-app Screenshots
 
