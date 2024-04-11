@@ -1,30 +1,6 @@
 # Social-Scheduler
 
-## **Contributors**
-- **İbrahim Karaca**
-  <img src="https://raw.githubusercontent.com/ultralytics/assets/main/social/logo-transparent.png" width="2.5%"/>
-      <a href="https://github.com/karaca-i">
-          <img
-            src="https://media.roboflow.com/notebooks/template/icons/purple/github.png?ik-sdk-version=javascript-1.4.3&updatedAt=1672949633691"
-            width="2.5%"
-          />
-      </a>
-  <img src="https://raw.githubusercontent.com/ultralytics/assets/main/social/logo-transparent.png" width="2.5%"/>
-      <a href="https://www.linkedin.com/in/karaca-ibrahim/">
-          <img
-            src="https://media.roboflow.com/notebooks/template/icons/purple/linkedin.png?ik-sdk-version=javascript-1.4.3&updatedAt=1672949633691"
-            width="2.5%"
-          />
-      </a>   
-      
-- **Ahmet Deniz Gelir**
-  <img src="https://raw.githubusercontent.com/ultralytics/assets/main/social/logo-transparent.png" width="2.5%"/>
-      <a href="https://github.com/adenizgelir0">
-          <img
-            src="https://media.roboflow.com/notebooks/template/icons/purple/github.png?ik-sdk-version=javascript-1.4.3&updatedAt=1672949633691"
-            width="2.5%"
-          />
-      </a>  
+Project can also be found here: https://github.com/adenizgelir0/Sscheduler (commits, contributors etc.)
 
 A mobile application for Android users that enables them to plan their weekly schedules and exchange segments of their routines in a social media format. Users can engage with shared routines by liking or commenting on them, enabling routines to be organized based on the number of likes they receive. Essentially, the app combines scheduling functionality with social features, which is why it's called "Social Scheduler."
 
