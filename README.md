@@ -33,6 +33,5 @@ A mobile application for Android users that enables them to plan their weekly sc
 
 - **Conflict Resolution**: App auto-resolves routine conflicts when integrating schedules.
 
-## Project Reports
-Initial design report: [UIDesign](https://github.com/karaca-i/Social-Scheduler/blob/main/uireport.pdf)  
+## Project Report
 Detailed design report: [DesignReport](https://github.com/gedd1/Social-Scheduler/blob/main/DetailedDesignReport.pdf)
